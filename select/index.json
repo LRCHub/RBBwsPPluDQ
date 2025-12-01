@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "LOVE LINE -Japanese ver.-",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-01T07:53:18.855469Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE LINE -Japanese ver.-",
+      "artist": "NiziU",
+      "has_synced": true,
+      "path": "select/01_LOVE_LINE_-Japanese_ver.-_NiziU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Line (Japanese ver.)",
+      "artist": "VERIVERY",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Line_(Japanese_ver.)_VERIVERY.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LOVE LINE -Japanese ver.-",
+      "artist": "VERIVERY",
+      "has_synced": false,
+      "path": "select/pl_02_LOVE_LINE_-Japanese_ver.-_VERIVERY.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LOVE LINE -Japanese ver.-",
+      "artist": "VERIVERY",
+      "has_synced": false,
+      "path": "select/pl_03_LOVE_LINE_-Japanese_ver.-_VERIVERY.txt"
+    }
+  ]
+}
